@@ -2,13 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muha%20Ismail&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" />
 </div>
 
-# Hi there, I'm Muha Ismail 👋
+# 👋 Hi, I’m Muha Ismail
 
-## 🎯 Cybersecurity Enthusiast | Full-Stack Developer | IoT Engineer
+## 🔐 Cybersecurity • Full-Stack Development • IoT Engineering
 
-I'm a passionate Computer Engineering student specializing in **cybersecurity**, **full-stack development**, and **embedded systems**. I build secure, scalable applications and create interactive simulations that solve real-world problems—from financial platforms to IoT automation systems.
+I’m a Computer Engineering student focused on building **secure, scalable, and real-world systems** across cybersecurity, software engineering, and embedded technologies. I enjoy combining security thinking with practical engineering — from automation tools and cloud apps to 3D simulations and IoT projects.
 
-### 🔒 Security-First Mindset | 💻 Code-Driven Solutions | 🚀 Always Learning
+### 🧠 Security-First Mindset • 💻 Builder Mentality • 🚀 Continuous Learner
 
 ---
 
@@ -18,43 +18,30 @@ I'm a passionate Computer Engineering student specializing in **cybersecurity**,
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+Python • JavaScript • TypeScript • Java • C++ • SQL • Bash
 
 ### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+
+React • Next.js • Node.js • Flask • Three.js • Tailwind CSS • OpenGL
 
 ### Tools & Platforms
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Cybersecurity & Cloud
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network_Security-FF6B6B?style=for-the-badge&logo=security&logoColor=white)
-![Encryption](https://img.shields.io/badge/Encryption-4A4A4A?style=for-the-badge&logo=letsencrypt&logoColor=white)
+Arduino • Git • GitHub • VS Code • Supabase • Vite
+
+### Security & Cloud
+
+Microsoft Azure • IAM • Network Security • Encryption • Security Operations
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
-  
+
 <a href="https://github.com/Muha-Ismail-M">
   <img src="https://github-readme-stats.vercel.app/api?username=Muha-Ismail-M&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </a>
@@ -71,89 +58,93 @@ I'm a passionate Computer Engineering student specializing in **cybersecurity**,
 
 ---
 
-## 🎓 Certifications & Learning
+## 🎓 Certifications & Learning Focus
 
-- 🔒 **Cybersecurity Fundamentals** - IAM, Network Security, Encryption, Threat Detection
-- ☁️ **Microsoft Azure & AI** - Azure AI Foundry, Azure AI Studio, Cloud Computing
-- 🤖 **AI & Machine Learning** - Generative AI, Prompt Engineering, Data Analytics
-- 📊 **Business & Risk Management** - GRC, Risk Analysis, Enterprise Security
-- 💼 **Professional Development** - Project Management, Business Communication
+* 🔒 Cybersecurity Fundamentals (IAM, Network Security, Threat Detection)
+* ☁️ Cloud & AI (Azure AI Studio, Cloud Architecture)
+* 🤖 AI & Machine Learning (Generative AI, Prompt Engineering)
+* 📊 Governance, Risk & Compliance (GRC, Risk Analysis)
+* 💼 Professional Skills (Project Management, Communication)
 
 ---
 
 ## 💼 Core Competencies
 
 ### Cybersecurity
-✓ Identity & Access Management (IAM) ✓ Network Security & Protocols
-✓ Encryption & Cryptography ✓ Security Awareness & Controls
-✓ Risk Analysis & Management ✓ Data Security & Ethics
-✓ Incident Response & Management ✓ Threat Detection & Monitoring
-✓ Vulnerability Management ✓ Security Operations (SIEM)
+
+* Identity & Access Management (IAM)
+* Network Security & Protocol Analysis
+* Encryption & Cryptography
+* Vulnerability Assessment
+* Incident Response & Monitoring
+* Security Awareness & Risk Management
+* SIEM Fundamentals
 
 ### Software Development
-✓ Full-Stack Web Development ✓ API Design & Integration
-✓ Database Design (SQL, Supabase) ✓ Cloud Architecture (Azure)
-✓ Algorithm Design & Optimization ✓ Data Structures & Patterns
-✓ Version Control (Git/GitHub) ✓ Debugging & Code Refactoring
-✓ Real-Time Systems & Performance ✓ State Management Architecture
 
-### Specialized Skills
-✓ 3D Graphics Programming (OpenGL) ✓ Financial Modeling & Simulation
-✓ IoT & Embedded Systems (Arduino) ✓ Web Scraping & Data Aggregation
-✓ Operations Research & Queuing Theory ✓ UI/UX Design (Mobile-First)
-✓ Image Processing (Canvas API) ✓ Discrete-Event Simulation
+* Full-Stack Web Applications
+* REST API Design & Integration
+* Database Architecture (SQL, Supabase)
+* Cloud Deployment & Architecture
+* Performance Optimization
+* State Management & Scalable Code Structure
 
+### Specialized Areas
 
----
-
-## 🌟 What I'm Currently Working On
-
-- 🔐 Building security automation tools for incident response workflows
-- 🎮 Developing interactive 3D simulations with WebGL and React Three Fiber
-- 📊 Creating business intelligence platforms with data analytics dashboards
-- 🌱 Exploring AI-driven security threat detection and automated compliance systems
-- 💼 Contributing to open-source cybersecurity and development tools
+* 3D Graphics & Simulation (OpenGL / WebGL)
+* IoT & Embedded Systems (Arduino)
+* Financial Modeling & Simulation
+* Image Processing & Canvas APIs
+* Operations Research & Queue Simulation
 
 ---
 
-## 🏆 Project Highlights
+## 🌱 Currently Building
+
+* 🔐 Security automation tools for incident response workflows
+* 🎮 Interactive 3D simulations using WebGL & React Three Fiber
+* 📊 Analytics dashboards for business intelligence
+* 🤖 AI-driven security detection and compliance workflows
+* 🌍 Open-source tools related to security & development
+
+---
+
+## 🏆 Highlight Projects
+
+| Domain                       | Technologies                      | Example Projects                              |
+| ---------------------------- | --------------------------------- | --------------------------------------------- |
+| **3D Graphics & Simulation** | OpenGL, Three.js, React           | RubixCube, Generative-3D, Physics Simulations |
+| **Full-Stack Applications**  | React, TypeScript, Node.js, Flask | Career Input, Classified Ads Platform         |
+| **Financial Systems**        | Python, APIs, Data Visualization  | Trading Simulator, Analytics Tools            |
+| **Business Intelligence**    | Python, Flask                     | Operations Research Simulators                |
+| **IoT & Embedded**           | Arduino, C++                      | Automatic Smart Plant Pot                     |
+| **Creative Tools**           | React, Canvas API                 | Image Editor, Interactive Dashboards          |
+
+---
+
+## 📈 Technical Snapshot
+
+**Primary Languages:** Python, JavaScript, TypeScript
+**Strong Working Knowledge:** Java, C++, SQL, Bash
+
+**Frontend:** React, Next.js, Tailwind CSS, Three.js
+**Backend:** Node.js, Express, Flask, REST APIs
+**Databases:** SQL, Supabase
+**Security:** JWT, Bcrypt, Encryption, Network Protocols
+**Dev Tools:** Git, GitHub, Vite, VS Code
+
+---
+
+## 🌟 What You’ll Find Here
+
+* Security-focused software projects
+* Full-stack applications with real-world use cases
+* 3D and simulation engineering experiments
+* IoT automation builds
+* Practical engineering solutions with clean architecture
+
+---
 
 <div align="center">
-
-| Domain | Technologies | Key Projects |
-|--------|-------------|--------------|
-| **3D Graphics & Simulation** | Python, OpenGL, Three.js, React | RubixCube, Generative-3D, Angry Birds Physics |
-| **Full-Stack Development** | React, TypeScript, Node.js, Flask | Career Input, Classified Ads, Digital Memory Vault |
-| **Financial Platforms** | Python, React, APIs, Data Viz | Stocks Trader, Simulated Trading Game |
-| **Business Intelligence** | Python, Flask, Queuing Theory | Digital Simulator, Operations Research Tools |
-| **IoT & Embedded** | Arduino, C++, Circuit Design | Automatic Smart Plant Pot |
-| **Creative Tools** | React, Canvas API, TypeScript | The Image Editor, Interactive Dashboards |
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
-
----
-
-## 📈 Technical Proficiencies
-
-### Programming Languages
-**Expert:** Python, JavaScript, TypeScript  
-**Proficient:** Java, C++, SQL, Bash  
-**Familiar:** PHP, HTML/CSS
-
-### Development Skills
-- **Frontend:** React, Next.js, Tailwind CSS, Three.js, HTML5 Canvas
-- **Backend:** Node.js, Express, Flask, REST APIs
-- **Database:** SQL, Supabase, LocalStorage
-- **DevOps:** Git, GitHub, Vite, VS Code
-- **Security:** Bcrypt, JWT, IAM, Network Protocols, Encryption
-
-### Domain Expertise
-- **Cybersecurity:** Network Security, Data Security, Risk Management, Threat Detection
-- **Data Science:** Statistical Modeling, Financial Analysis, Data Visualization
-- **Graphics:** 3D Rendering, OpenGL, WebGL, Image Processing
-- **IoT:** Arduino, Sensors, Automation, Circuit Design
-- **Business:** Operations Research, Decision Support Systems, Financial Projections
-
----
-
-</div><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /> </div>

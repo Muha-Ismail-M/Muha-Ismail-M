@@ -12,7 +12,9 @@ I'm a passionate Computer Engineering student specializing in **cybersecurity**,
 
 ---
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Muha-Ismail-M&theme=radical&no-frame=true&row=1&column=7)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Muha-Ismail-M&theme=radical&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 

@@ -157,8 +157,6 @@ I'm a passionate Computer Engineering student specializing in **cybersecurity**,
 ---
 
 ## 💡 My Approach
-
-```python
 class Developer:
     def __init__(self):
         self.name = "Muha Ismail"
@@ -176,11 +174,17 @@ class Developer:
 
 me = Developer()
 me.say_hi()
-```
 📫 Let's Connect!
 <div align="center">
 LinkedIn
 Email
 GitHub
 
-</div><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /> </div> ```
+</div>
+<div align="center">
+🔥 "The best way to predict the future is to create it" - Peter Drucker
+Profile Views
+
+⭐ From Muha-Ismail-M
+
+</div><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /> </div>

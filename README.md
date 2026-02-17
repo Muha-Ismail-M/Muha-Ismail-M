@@ -176,7 +176,7 @@ class Developer:
 
 me = Developer()
 me.say_hi()
-
+```
 📫 Let's Connect!
 <div align="center">
 LinkedIn

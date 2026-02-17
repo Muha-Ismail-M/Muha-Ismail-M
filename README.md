@@ -1,10 +1,18 @@
-## Hi there, I'm Muhammad Ismail Munawar
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muha%20Ismail&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" />
+</div>
+
+# Hi there, I'm Muha Ismail 👋
 
 ## 🎯 Cybersecurity Enthusiast | Full-Stack Developer | IoT Engineer
 
 I'm a passionate Computer Engineering student specializing in **cybersecurity**, **full-stack development**, and **embedded systems**. I build secure, scalable applications and create interactive simulations that solve real-world problems—from financial platforms to IoT automation systems.
 
 ### 🔒 Security-First Mindset | 💻 Code-Driven Solutions | 🚀 Always Learning
+
+---
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Muha-Ismail-M&theme=radical&no-frame=true&row=1&column=7)
 
 ---
 
@@ -57,6 +65,12 @@ I'm a passionate Computer Engineering student specializing in **cybersecurity**,
 
 ---
 
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muha-Ismail-M&theme=react-dark&hide_border=true)
+
+---
+
 ## 🎓 Certifications & Learning
 
 - 🔒 **Cybersecurity Fundamentals** - IAM, Network Security, Encryption, Threat Detection
@@ -70,3 +84,103 @@ I'm a passionate Computer Engineering student specializing in **cybersecurity**,
 ## 💼 Core Competencies
 
 ### Cybersecurity
+✓ Identity & Access Management (IAM) ✓ Network Security & Protocols
+✓ Encryption & Cryptography ✓ Security Awareness & Controls
+✓ Risk Analysis & Management ✓ Data Security & Ethics
+✓ Incident Response & Management ✓ Threat Detection & Monitoring
+✓ Vulnerability Management ✓ Security Operations (SIEM)
+
+### Software Development
+✓ Full-Stack Web Development ✓ API Design & Integration
+✓ Database Design (SQL, Supabase) ✓ Cloud Architecture (Azure)
+✓ Algorithm Design & Optimization ✓ Data Structures & Patterns
+✓ Version Control (Git/GitHub) ✓ Debugging & Code Refactoring
+✓ Real-Time Systems & Performance ✓ State Management Architecture
+
+### Specialized Skills
+✓ 3D Graphics Programming (OpenGL) ✓ Financial Modeling & Simulation
+✓ IoT & Embedded Systems (Arduino) ✓ Web Scraping & Data Aggregation
+✓ Operations Research & Queuing Theory ✓ UI/UX Design (Mobile-First)
+✓ Image Processing (Canvas API) ✓ Discrete-Event Simulation
+
+
+---
+
+## 🌟 What I'm Currently Working On
+
+- 🔐 Building security automation tools for incident response workflows
+- 🎮 Developing interactive 3D simulations with WebGL and React Three Fiber
+- 📊 Creating business intelligence platforms with data analytics dashboards
+- 🌱 Exploring AI-driven security threat detection and automated compliance systems
+- 💼 Contributing to open-source cybersecurity and development tools
+
+---
+
+## 🏆 Project Highlights
+
+<div align="center">
+
+| Domain | Technologies | Key Projects |
+|--------|-------------|--------------|
+| **3D Graphics & Simulation** | Python, OpenGL, Three.js, React | RubixCube, Generative-3D, Angry Birds Physics |
+| **Full-Stack Development** | React, TypeScript, Node.js, Flask | Career Input, Classified Ads, Digital Memory Vault |
+| **Financial Platforms** | Python, React, APIs, Data Viz | Stocks Trader, Simulated Trading Game |
+| **Business Intelligence** | Python, Flask, Queuing Theory | Digital Simulator, Operations Research Tools |
+| **IoT & Embedded** | Arduino, C++, Circuit Design | Automatic Smart Plant Pot |
+| **Creative Tools** | React, Canvas API, TypeScript | The Image Editor, Interactive Dashboards |
+
+</div>
+
+---
+
+## 📈 Technical Proficiencies
+
+### Programming Languages
+**Expert:** Python, JavaScript, TypeScript  
+**Proficient:** Java, C++, SQL, Bash  
+**Familiar:** PHP, HTML/CSS
+
+### Development Skills
+- **Frontend:** React, Next.js, Tailwind CSS, Three.js, HTML5 Canvas
+- **Backend:** Node.js, Express, Flask, REST APIs
+- **Database:** SQL, Supabase, LocalStorage
+- **DevOps:** Git, GitHub, Vite, VS Code
+- **Security:** Bcrypt, JWT, IAM, Network Protocols, Encryption
+
+### Domain Expertise
+- **Cybersecurity:** Network Security, Data Security, Risk Management, Threat Detection
+- **Data Science:** Statistical Modeling, Financial Analysis, Data Visualization
+- **Graphics:** 3D Rendering, OpenGL, WebGL, Image Processing
+- **IoT:** Arduino, Sensors, Automation, Circuit Design
+- **Business:** Operations Research, Decision Support Systems, Financial Projections
+
+---
+
+## 💡 My Approach
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Muha Ismail"
+        self.role = "Cybersecurity Professional & Full-Stack Developer"
+        self.education = "Computer Engineering Student"
+        self.mindset = ["Security-First", "User-Focused", "Performance-Optimized"]
+        self.current_focus = [
+            "Building secure, scalable applications",
+            "Exploring AI-driven security solutions",
+            "Creating interactive learning tools"
+        ]
+        
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something secure and innovative together.")
+
+me = Developer()
+me.say_hi()
+
+📫 Let's Connect!
+<div align="center">
+LinkedIn
+Email
+GitHub
+
+</div><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /> </div> ```

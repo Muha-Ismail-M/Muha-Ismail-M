@@ -50,17 +50,16 @@ I'm a passionate Computer Engineering student specializing in **cybersecurity**,
 ![Encryption](https://img.shields.io/badge/Encryption-4A4A4A?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
 ---
+
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muha-Ismail-M&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Muha-Ismail-M)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muha-Ismail-M&show_icons=true&theme=radical&hide_border=true" />
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muha-Ismail-M&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/Muha-Ismail-M)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muha-Ismail-M&theme=radical&hide_border=true)](https://github.com/Muha-Ismail-M)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muha-Ismail-M&theme=radical&hide_border=true" />
+</p>
 
 ---
 

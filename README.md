@@ -1,40 +1,93 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muha%20Ismail&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" />
+  <h1>Muha Ismail</h1>
+  <p>
+    Computer Engineering Student • Software Systems Builder • Security-Focused Developer
+  </p>
 </div>
 
-# 👋 Hi, I’m Muha Ismail
+---
 
-## 🔐 Cybersecurity • Full-Stack Development • IoT Engineering
+## 👨‍💻 About Me
 
-I’m a Computer Engineering student focused on building **secure, scalable, and real-world systems** across cybersecurity, software engineering, and embedded technologies. I enjoy combining security thinking with practical engineering — from automation tools and cloud apps to 3D simulations and IoT projects.
+I build **software systems that model real-world problems**, with a focus on system architecture, performance, and secure engineering practices.
 
-### 🧠 Security-First Mindset • 💻 Builder Mentality • 🚀 Continuous Learner
+My interests sit at the intersection of:
+
+* Software Engineering & System Design
+* Simulation & Modeling
+* Real-Time Graphics & Interactive Systems
+* Security-Conscious Application Development
+
+I enjoy transforming complex ideas into structured systems — from simulation engines to full-stack platforms and 3D interactive applications.
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muha-Ismail-M&theme=radical&no-frame=true&row=1&column=7" />
-</p>
+## 🧠 Engineering Areas
+
+* **Software Architecture** — modular design, scalability, maintainability
+* **Simulation Systems** — event-driven modeling & real-world process simulation
+* **Full-Stack Engineering** — APIs, databases, frontend architecture
+* **Graphics Engineering** — 3D rendering, interaction systems, visualization
+* **Security Practices** — secure authentication, defensive design, encryption fundamentals
+* **Performance Thinking** — optimization, data flow design, system constraints
 
 ---
 
-## 🧰 Tech Stack
+## ⚙️ Tech Stack
 
-### Languages
+**Languages:**
+Python • C++ • JavaScript • TypeScript • Java • SQL • Bash
 
-Python • JavaScript • TypeScript • Java • C++ • SQL • Bash
+**Frameworks & Tools:**
+React • Node.js • Flask • Next.js • Three.js • OpenGL • Supabase • Git
 
-### Frameworks & Libraries
+**Domains:**
+Full-Stack Systems • Simulation Engineering • Graphics Programming • IoT & Embedded Systems
 
-React • Next.js • Node.js • Flask • Three.js • Tailwind CSS • OpenGL
+---
 
-### Tools & Platforms
+## 🧩 Selected Projects
 
-Arduino • Git • GitHub • VS Code • Supabase • Vite
+### 🧮 Systems & Simulation
 
-### Security & Cloud
+* **Digital Simulator**
+  Simulation-driven platform modeling real-world operational workflows and decision systems.
 
-Microsoft Azure • IAM • Network Security • Encryption • Security Operations
+* **Simulated Stocks & Crypto Game**
+  Market simulation engine focused on modeling behavior, analytics, and interactive strategy.
+
+* **The Stocks Trader**
+  Data-driven financial simulation platform emphasizing UI + logic integration.
+
+---
+
+### 🎮 Interactive & Graphics Engineering
+
+* **RubixCube**
+  3D rendering system with interaction logic and spatial transformations.
+
+* **Generative-3D**
+  Procedural graphics experiments exploring algorithmic generation.
+
+* **AngryBirds**
+  Physics-inspired gameplay systems and simulation logic.
+
+---
+
+### 🌐 Full-Stack Applications
+
+* **CareerInput** — workflow-focused productivity platform
+* **Pocket-Waiter** — service workflow management system
+* **Bus Tracker** — real-time data flow and UI state management
+* **ClassifiedAdds** — marketplace architecture with scalable structure
+* **Digital Memory Vault** — secure data handling and storage concepts
+
+---
+
+### 🧪 Engineering Tools
+
+* **The Image Editor** — canvas rendering and image manipulation pipeline
+* **Uno** — game state management and modular logic implementation
 
 ---
 
@@ -42,109 +95,33 @@ Microsoft Azure • IAM • Network Security • Encryption • Security Operati
 
 <div align="center">
 
-<a href="https://github.com/Muha-Ismail-M">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muha-Ismail-M&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Muha-Ismail-M&show_icons=true&hide_border=true" />
 
-<a href="https://github.com/Muha-Ismail-M">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muha-Ismail-M&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</a>
-
-<a href="https://github.com/Muha-Ismail-M">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muha-Ismail-M&theme=radical&hide_border=true" alt="GitHub Streak" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muha-Ismail-M&layout=compact&hide_border=true" />
 
 </div>
 
 ---
 
-## 🎓 Certifications & Learning Focus
+## 🚀 What I’m Currently Exploring
 
-* 🔒 Cybersecurity Fundamentals (IAM, Network Security, Threat Detection)
-* ☁️ Cloud & AI (Azure AI Studio, Cloud Architecture)
-* 🤖 AI & Machine Learning (Generative AI, Prompt Engineering)
-* 📊 Governance, Risk & Compliance (GRC, Risk Analysis)
-* 💼 Professional Skills (Project Management, Communication)
-
----
-
-## 💼 Core Competencies
-
-### Cybersecurity
-
-* Identity & Access Management (IAM)
-* Network Security & Protocol Analysis
-* Encryption & Cryptography
-* Vulnerability Assessment
-* Incident Response & Monitoring
-* Security Awareness & Risk Management
-* SIEM Fundamentals
-
-### Software Development
-
-* Full-Stack Web Applications
-* REST API Design & Integration
-* Database Architecture (SQL, Supabase)
-* Cloud Deployment & Architecture
-* Performance Optimization
-* State Management & Scalable Code Structure
-
-### Specialized Areas
-
-* 3D Graphics & Simulation (OpenGL / WebGL)
-* IoT & Embedded Systems (Arduino)
-* Financial Modeling & Simulation
-* Image Processing & Canvas APIs
-* Operations Research & Queue Simulation
+* System design patterns used in large-scale platforms
+* Security automation workflows
+* Performance optimization in simulations
+* AI-assisted engineering tooling
+* Scalable backend architecture
 
 ---
 
-## 🌱 Currently Building
+## 📌 Engineering Principles
 
-* 🔐 Security automation tools for incident response workflows
-* 🎮 Interactive 3D simulations using WebGL & React Three Fiber
-* 📊 Analytics dashboards for business intelligence
-* 🤖 AI-driven security detection and compliance workflows
-* 🌍 Open-source tools related to security & development
-
----
-
-## 🏆 Highlight Projects
-
-| Domain                       | Technologies                      | Example Projects                              |
-| ---------------------------- | --------------------------------- | --------------------------------------------- |
-| **3D Graphics & Simulation** | OpenGL, Three.js, React           | RubixCube, Generative-3D, Physics Simulations |
-| **Full-Stack Applications**  | React, TypeScript, Node.js, Flask | Career Input, Classified Ads Platform         |
-| **Financial Systems**        | Python, APIs, Data Visualization  | Trading Simulator, Analytics Tools            |
-| **Business Intelligence**    | Python, Flask                     | Operations Research Simulators                |
-| **IoT & Embedded**           | Arduino, C++                      | Automatic Smart Plant Pot                     |
-| **Creative Tools**           | React, Canvas API                 | Image Editor, Interactive Dashboards          |
-
----
-
-## 📈 Technical Snapshot
-
-**Primary Languages:** Python, JavaScript, TypeScript
-**Strong Working Knowledge:** Java, C++, SQL, Bash
-
-**Frontend:** React, Next.js, Tailwind CSS, Three.js
-**Backend:** Node.js, Express, Flask, REST APIs
-**Databases:** SQL, Supabase
-**Security:** JWT, Bcrypt, Encryption, Network Protocols
-**Dev Tools:** Git, GitHub, Vite, VS Code
-
----
-
-## 🌟 What You’ll Find Here
-
-* Security-focused software projects
-* Full-stack applications with real-world use cases
-* 3D and simulation engineering experiments
-* IoT automation builds
-* Practical engineering solutions with clean architecture
+* Build systems, not just features
+* Optimize for clarity before complexity
+* Design with scale and security in mind
+* Measure performance, then improve it
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <sub>Always learning • Always building • Always optimizing</sub>
 </div>

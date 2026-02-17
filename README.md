@@ -155,3 +155,5 @@ I'm a passionate Computer Engineering student specializing in **cybersecurity**,
 - **Business:** Operations Research, Decision Support Systems, Financial Projections
 
 ---
+
+</div><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /> </div>

@@ -1,10 +1,6 @@
 <div align="center">
-  <h1>Muha Ismail</h1>
-  <p>
-    Computer Engineering Student • Software Systems Builder • Security-Focused Developer
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=250&section=header&text=Muha%20Ismail&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50" />
 </div>
-
 ---
 
 ## 👨‍💻 About Me
@@ -123,5 +119,5 @@ Full-Stack Systems • Simulation Engineering • Graphics Programming • IoT &
 ---
 
 <div align="center">
-  <sub>Always learning • Always building • Always optimizing</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>

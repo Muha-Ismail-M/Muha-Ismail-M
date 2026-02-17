@@ -55,11 +55,11 @@ I'm a passionate Computer Engineering student specializing in **cybersecurity**,
 
 <div align="center">
   
-![Muha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muha-Ismail-M&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Muha-Ismail-M&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muha-Ismail-M&layout=compact&theme=radical&hide_border=true&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muha-Ismail-M&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muha-Ismail-M&theme=radical&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muha-Ismail-M&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 

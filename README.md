@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muha%20Ismail&fontSize=60&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammad%20Ismail&fontSize=60&fontColor=fff" />
 </div>
 
 # Muhammad Ismail
@@ -27,9 +27,9 @@ I like building applications, games, and systems that solve problems.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muha-Ismail-M&show_icons=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ismail-M&show_icons=true&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muha-Ismail-M&layout=compact&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ismail-M&layout=compact&hide_border=true" />
 
 </div>
 

@@ -1,93 +1,29 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=250&section=header&text=Muha%20Ismail&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Programmer%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muha%20Ismail&fontSize=60&fontColor=fff" />
 </div>
----
 
-## 👨‍💻 About Me
+# Muhammad Ismail
 
-I build **software systems that model real-world problems**, with a focus on system architecture, performance, and secure engineering practices.
-
-My interests sit at the intersection of:
-
-* Software Engineering & System Design
-* Simulation & Modeling
-* Real-Time Graphics & Interactive Systems
-* Security-Conscious Application Development
-
-I enjoy transforming complex ideas into structured systems — from simulation engines to full-stack platforms and 3D interactive applications.
+Student Developer
 
 ---
 
-## 🧠 Engineering Areas
+## About Me
 
-* **Software Architecture** — modular design, scalability, maintainability
-* **Simulation Systems** — event-driven modeling & real-world process simulation
-* **Full-Stack Engineering** — APIs, databases, frontend architecture
-* **Graphics Engineering** — 3D rendering, interaction systems, visualization
-* **Security Practices** — secure authentication, defensive design, encryption fundamentals
-* **Performance Thinking** — optimization, data flow design, system constraints
+I am a student developer who enjoys creating software projects and learning how technology works.
 
----
+I like building applications, games, and systems that solve problems.
 
-## ⚙️ Tech Stack
+## Goals
 
-**Languages:**
-Python • C++ • JavaScript • TypeScript • Java • SQL • Bash
-
-**Frameworks & Tools:**
-React • Node.js • Flask • Next.js • Three.js • OpenGL • Supabase • Git
-
-**Domains:**
-Full-Stack Systems • Simulation Engineering • Graphics Programming • IoT & Embedded Systems
+- Improve my programming skills
+- Create bigger and better projects
+- Learn more about software engineering
+- Build useful applications
 
 ---
 
-## 🧩 Selected Projects
-
-### 🧮 Systems & Simulation
-
-* **Digital Simulator**
-  Simulation-driven platform modeling real-world operational workflows and decision systems.
-
-* **Simulated Stocks & Crypto Game**
-  Market simulation engine focused on modeling behavior, analytics, and interactive strategy.
-
-* **The Stocks Trader**
-  Data-driven financial simulation platform emphasizing UI + logic integration.
-
----
-
-### 🎮 Interactive & Graphics Engineering
-
-* **RubixCube**
-  3D rendering system with interaction logic and spatial transformations.
-
-* **Generative-3D**
-  Procedural graphics experiments exploring algorithmic generation.
-
-* **AngryBirds**
-  Physics-inspired gameplay systems and simulation logic.
-
----
-
-### 🌐 Full-Stack Applications
-
-* **CareerInput** — workflow-focused productivity platform
-* **Pocket-Waiter** — service workflow management system
-* **Bus Tracker** — real-time data flow and UI state management
-* **ClassifiedAdds** — marketplace architecture with scalable structure
-* **Digital Memory Vault** — secure data handling and storage concepts
-
----
-
-### 🧪 Engineering Tools
-
-* **The Image Editor** — canvas rendering and image manipulation pipeline
-* **Uno** — game state management and modular logic implementation
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -96,25 +32,6 @@ Full-Stack Systems • Simulation Engineering • Graphics Programming • IoT &
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muha-Ismail-M&layout=compact&hide_border=true" />
 
 </div>
-
----
-
-## 🚀 What I’m Currently Exploring
-
-* System design patterns used in large-scale platforms
-* Security automation workflows
-* Performance optimization in simulations
-* AI-assisted engineering tooling
-* Scalable backend architecture
-
----
-
-## 📌 Engineering Principles
-
-* Build systems, not just features
-* Optimize for clarity before complexity
-* Design with scale and security in mind
-* Measure performance, then improve it
 
 ---
 

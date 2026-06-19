@@ -10,7 +10,7 @@ Student Developer
 
 ## About Me
 
-I am a student developer who enjoys creating software projects and learning how technology works.
+I am a high school student developer who enjoys creating software projects and learning how technology works.
 
 I like building applications, games, and systems that solve problems.
 
